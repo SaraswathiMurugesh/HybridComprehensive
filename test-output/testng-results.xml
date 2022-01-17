@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-16T16:11:06 IST" name="Default suite" finished-at="2022-01-16T16:14:38 IST" duration-ms="212109">
+    <groups>
+    </groups>
+    <test started-at="2022-01-16T16:11:06 IST" name="Default test" finished-at="2022-01-16T16:14:38 IST" duration-ms="212109">
+      <class name="runner.RentalCar">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:11:06 IST" name="initializeDriver" finished-at="2022-01-16T16:11:30 IST" duration-ms="23740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="validateTitle(java.lang.String)[pri:1, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:11:30 IST" name="validateTitle" data-provider="getTitle" finished-at="2022-01-16T16:11:32 IST" duration-ms="1463" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:2, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:11:32 IST" name="Login" data-provider="getData" finished-at="2022-01-16T16:11:44 IST" duration-ms="12229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saraswathimurugesh28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saraswathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="outstation(java.lang.String,java.lang.String)[pri:3, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:11:44 IST" name="outstation" data-provider="getData1" finished-at="2022-01-16T16:11:54 IST" duration-ms="10577" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mysore, Karnataka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chennai Central, Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- outstation -->
+        <test-method signature="local(java.lang.String)[pri:4, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:11:54 IST" name="local" data-provider="getData2" finished-at="2022-01-16T16:12:13 IST" duration-ms="18793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bangalore, Karnataka]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- local -->
+        <test-method signature="airport(java.lang.String)[pri:5, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:12:13 IST" name="airport" data-provider="getData3" finished-at="2022-01-16T16:12:31 IST" duration-ms="17867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Temple Tree Apartments]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- airport -->
+        <test-method signature="Download(java.lang.String,java.lang.String)[pri:6, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:12:31 IST" name="Download" data-provider="getData4" finished-at="2022-01-16T16:13:05 IST" duration-ms="33639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saraswathimurugesh28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saraswathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Download -->
+        <test-method signature="Corporate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:7, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:13:05 IST" name="Corporate" data-provider="getData5" finished-at="2022-01-16T16:13:45 IST" duration-ms="40707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shivani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India private ltd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[saraswathi@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9.159767824E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Corporate -->
+        <test-method signature="roundtrip()[pri:8, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:13:45 IST" name="roundtrip" finished-at="2022-01-16T16:13:56 IST" duration-ms="10190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- roundtrip -->
+        <test-method signature="TwitterTitle(java.lang.String)[pri:9, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:13:56 IST" name="TwitterTitle" data-provider="getData7" finished-at="2022-01-16T16:14:29 IST" duration-ms="33282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Savaari Car Rentals (@savaaricars) / Twitter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterTitle -->
+        <test-method signature="Logout()[pri:10, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:14:29 IST" name="Logout" finished-at="2022-01-16T16:14:37 IST" duration-ms="7974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="closeInstance()[pri:0, instance:runner.RentalCar@172b013]" started-at="2022-01-16T16:14:37 IST" name="closeInstance" finished-at="2022-01-16T16:14:38 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeInstance -->
+      </class> <!-- runner.RentalCar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

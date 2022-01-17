@@ -1,0 +1,62 @@
+2022-01-16 16:11:27,252  INFO [main] RentalCar:14 - URL Opened
+2022-01-16 16:11:30,604  INFO [main] RentalCar:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-16 16:11:32,614  INFO [main] RentalCar:14 - signin is clicked in page Homepage
+2022-01-16 16:11:39,186  INFO [main] RentalCar:14 - Email is send in page Account Log in
+2022-01-16 16:11:40,575  INFO [main] RentalCar:14 - Password is send in page Account Log in
+2022-01-16 16:11:41,915  INFO [main] RentalCar:14 - Signin button is clicked in page Account Log in
+2022-01-16 16:11:43,232  INFO [main] RentalCar:14 - Successfully Logged in
+2022-01-16 16:11:44,761  INFO [main] RentalCar:14 -  from place is clicked in page from
+2022-01-16 16:11:45,743  INFO [main] RentalCar:14 - place is send in page from
+2022-01-16 16:11:46,823  INFO [main] RentalCar:14 - place is clicked in page to
+2022-01-16 16:11:48,459  INFO [main] RentalCar:14 - place is send in page to
+2022-01-16 16:11:49,840  INFO [main] RentalCar:14 - place is clicked in page to
+2022-01-16 16:11:52,072  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:11:52,594  INFO [main] RentalCar:14 - Successfully verified
+2022-01-16 16:11:54,255  INFO [main] RentalCar:14 - Selected is clicked in page homepage
+2022-01-16 16:11:55,486  INFO [main] RentalCar:14 - place is clicked in page local
+2022-01-16 16:11:56,770  INFO [main] RentalCar:14 - closed is clicked in page close
+2022-01-16 16:11:58,366  INFO [main] RentalCar:14 - place is clicked in page from
+2022-01-16 16:12:00,067  INFO [main] RentalCar:14 - place is send in page from
+2022-01-16 16:12:02,020  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:12:08,709  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:12:10,941  INFO [main] RentalCar:14 - Successfully verified
+2022-01-16 16:12:12,267  INFO [main] RentalCar:14 - Selected is clicked in page homepage
+2022-01-16 16:12:14,222  INFO [main] RentalCar:14 - button is clicked in page airport
+2022-01-16 16:12:16,038  INFO [main] RentalCar:14 - selected is clicked in page trip
+2022-01-16 16:12:18,347  INFO [main] RentalCar:14 - Drop bar is clicked in page Airport page
+2022-01-16 16:12:20,390  INFO [main] RentalCar:14 - dropdown is send in page Airport page
+2022-01-16 16:12:22,393  INFO [main] RentalCar:14 - click is clicked in page Address
+2022-01-16 16:12:24,435  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:12:28,031  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:12:30,093  INFO [main] RentalCar:14 - Selected is clicked in page homepage
+2022-01-16 16:12:32,247  INFO [main] RentalCar:14 - Downloadicon is clicked in page click
+2022-01-16 16:12:44,052  INFO [main] RentalCar:14 - Playstore detail shown
+2022-01-16 16:12:45,419  INFO [main] RentalCar:14 - icon is clicked in page Travelagent
+2022-01-16 16:12:59,620  INFO [main] RentalCar:14 - button is clicked in page login
+2022-01-16 16:13:00,829  INFO [main] RentalCar:14 - email is send in page account log in
+2022-01-16 16:13:01,957  INFO [main] RentalCar:14 - password is send in page account log in
+2022-01-16 16:13:03,085  INFO [main] RentalCar:14 - login is clicked in page account log in
+2022-01-16 16:13:03,974  INFO [main] RentalCar:14 - Alert shown
+2022-01-16 16:13:06,036  INFO [main] RentalCar:14 - link is clicked in page click
+2022-01-16 16:13:17,358  INFO [main] RentalCar:14 - name is clicked in page send
+2022-01-16 16:13:19,448  INFO [main] RentalCar:14 - name is send in page send
+2022-01-16 16:13:21,819  INFO [main] RentalCar:14 - company is clicked in page select
+2022-01-16 16:13:23,835  INFO [main] RentalCar:14 - company is send in page select
+2022-01-16 16:13:26,154  INFO [main] RentalCar:14 - email is clicked in page select
+2022-01-16 16:13:28,366  INFO [main] RentalCar:14 - emaily is send in page select
+2022-01-16 16:13:30,666  INFO [main] RentalCar:14 - phoneno is clicked in page select
+2022-01-16 16:13:32,962  INFO [main] RentalCar:14 - phonenno is send in page select
+2022-01-16 16:13:35,198  INFO [main] RentalCar:14 - volume is clicked in page business
+2022-01-16 16:13:37,865  INFO [main] RentalCar:14 - button is clicked in page submit
+2022-01-16 16:13:41,810  INFO [main] RentalCar:14 - Message displayed
+2022-01-16 16:13:46,593  INFO [main] RentalCar:14 - outstation is clicked in page click
+2022-01-16 16:13:47,980  INFO [main] RentalCar:14 - radiobutton is clicked in page click
+2022-01-16 16:13:49,883  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:13:52,106  INFO [main] RentalCar:14 - selected is clicked in page select
+2022-01-16 16:13:53,392  INFO [main] RentalCar:14 - Successfully verified
+2022-01-16 16:13:54,748  INFO [main] RentalCar:14 - Selected is clicked in page homepage
+2022-01-16 16:13:56,745  INFO [main] RentalCar:14 - twitter icon is clicked in page homepage
+2022-01-16 16:14:22,451  INFO [main] RentalCar:14 - Twitter page openedSavaari Car Rentals (@savaaricars) / Twitter
+2022-01-16 16:14:30,127  INFO [main] RentalCar:14 - myacc is clicked in page Homepage
+2022-01-16 16:14:36,307  INFO [main] RentalCar:14 - logout button is clicked in page Account Log out
+2022-01-16 16:14:36,925  INFO [main] RentalCar:14 - Successfully Logged out
